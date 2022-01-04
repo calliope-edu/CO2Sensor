@@ -32,4 +32,4 @@ Der Calliope mini C02 Sensor dient der einfachen und schnellen Messung des CO2 G
 ![Calliope](calliope_co2_sensor_rotation.png)
 
 
-![Lizenz](../../assets/img/calliope_license.png)
+![Lizenz](../assets/img/calliope_license.png)
