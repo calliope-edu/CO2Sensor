@@ -4,4 +4,4 @@ description: Technische Dokumentation des Calliope mini CO2 Sensors.
 twitter_username: CalliopeMini
 github_username:  calliope-edu
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-slate
